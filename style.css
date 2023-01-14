@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+/*----------header css start---------*/
+header {
+    background-color: rgba(255, 144, 14, 0.1);
+}
+
+.header-contant {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 228px 102px;
+}
+
+.header-logo h3 {
+    font-size: 45px;
+    color: #131313;
+}
+
+.header-manu ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.header-manu ul li {
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 18px;
+    color: #424242;
+    margin-left: 35px;
+}
+
+.brand-group {
+    width: 862px;
+    height: 225px;
+    margin: 0 auto;
+}
+
+.brand-group h2 {
+    font-size: 64px;
+    text-align: center;
+    margin: 0;
+}
+
+.brand{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #727272;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.butt {
+    width: 168px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #FF900E;
+    border-radius: 8px;
+    border: none;
+    margin-top: 16px;
+    margin-bottom: 50px;
+}
+
+.banner {
+    margin-left: 240px;
+    margin-right: 240px;
+    width: 1000px;
+    height: 500px;
+    margin-bottom: 40px;
+}
+
+/*-------------main css start-------------*/
+
+.team-image {
+    width: 310px;
+    height: 310px;
+}
+
+.images {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+
+.contant-list {
+    display: flex;
+    align-items: center;
+    margin: 85px 190px 130px 190px;
+    gap: 40px;
+}
+
+.quick {
+    font-weight: 500;
+    font-size: 40px;
+    color: #727272;
+
+}
+
+.our {
+    font-weight: 700;
+    font-size: 40px;
+    color: #131313;
+}
+
+.features {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FF900E;
+}
+.description p{
+    font-weight: 400;
+font-size: 14px;
+color: #727272;
+
+}
+
+/*------------------------experience desigin start------------------*/
+
+.my-feature{
+    display: flex;
+    margin: 0 190px 120px 190px;
+}
+.many-description{
+    width: 586px;
+height: 982px;
+}
+.experience{
+    
+}
